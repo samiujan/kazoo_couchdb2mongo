@@ -29,7 +29,6 @@ source venv/bin/activate
 ```
 pip install pymongo
 ```
-- 
 
 ### TODO:
 - Load the json data in chunks
