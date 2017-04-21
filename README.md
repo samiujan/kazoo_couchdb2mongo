@@ -12,3 +12,4 @@ Example usage:
 
 ### TODO:
 - Load the json data in chunks
+- Add tests
